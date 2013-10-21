@@ -1,0 +1,24 @@
+<Brain>
+  <Property name="fontSize" value="15"/>
+  <Property name="gravity" value="4.0"/>
+  <Thought id="2,2" xPos="511.0666666666666" yPos="287.9999999999998">
+    <Property name="activated" value="true"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+  <Thought id="2,5" xPos="468.00625813462165" yPos="319.37411572564844">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+  <Thought id="2,6" xPos="468.00625813462165" yPos="342.3553175379999">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+  <Thought id="2,4" xPos="554.1458733863604" yPos="319.37411572564844">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+  <Thought id="2,1" xPos="511.0666666666666" yPos="255.9221173266214">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+</Brain>
